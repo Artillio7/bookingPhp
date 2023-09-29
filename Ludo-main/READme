@@ -1,0 +1,13 @@
+NOM DU projet :LUDOTHEQUE
+Mon Nom et prenom= Ebenezer Lassem Abdoulaye
+lien: https://github.com/Ebenezer7777/Ludo.git
+
+le prix dans la base de donnée Games est le prix si le client gate ou perd le jeu
+
+Perspectivre de developpement(ce qui n'a pas été fait):
+    -Faire L'espace Inscription coté Admin
+    -implementer la base de donnée stock 
+        comme la table stock etait pour gerer le nombre de jeux et voir la disponibilité ,j'ai gerer cette disponibilité dans jeu avec une autre facon, un if(archaique)
+    -Gerer les quelques bug du site 
+    -Gerer les commentaire par rapport a chaque client
+    

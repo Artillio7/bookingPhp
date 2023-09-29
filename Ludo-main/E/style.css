@@ -1,0 +1,56 @@
+header {
+  padding: 1em;
+  margin-left:00;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 4px 8px rgba(0, 0, 0,0.2);
+  width: auto;
+  height: 100px;
+  text-align: center;
+  display: block;
+  position: relative;;
+}
+.titre{
+  font-weight: normal;
+}
+a{
+  margin: 20px;
+  text-decoration:none;
+  text-align: center;
+}
+.b{
+  float:right;
+}
+.c{
+  margin: 20px;
+}
+img{
+	width: 150px;
+	height: 160px;
+  
+}
+th{
+	font-family: Arial;
+    color: blue;
+    font-size:14px;
+}
+body{
+  max-width: 80em;
+  padding: 0 20px;
+  margin: 6em auto 19em;
+  color: #333;
+  font: 1.156em/1.3 My Gill Sans, Lato, sans-serif;
+      font-size-adjust: none;
+  font-size-adjust: 0.45;
+  position: relative;
+  box-shadow: 0 .3em 1em #000;
+  color:black;
+background-color:white;
+background-image:url(IMG/controller.jpg);
+
+}
+ 
+.resp-container { 
+  position: relative; 
+  overflow: hidden; 
+  padding-top: 40.25%; 
+}

@@ -1,0 +1,35 @@
+.box1{
+	height: 1200px;
+	width: 500px;
+	background-color: black;
+	margin: 80px auto;
+	opacity: .8;
+	color: white;
+	padding: 20px;
+}
+.box{
+	height: 500px;
+	width: 500px;
+	background-color: black;
+	margin: 80px auto;
+	opacity: .8;
+	color: white;
+	padding: 20px;
+}
+form .f{
+	margin: auto 80px;
+}
+input{
+	height: 25px;
+	width: 300px;
+	border-radius: 3px;
+}
+.submit{
+	background-color: #02f90c;
+    border-color: #1cc123;
+	cursor: pointer;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
